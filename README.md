@@ -80,7 +80,9 @@ LuminaTech_Project/
 - **Merging**: Once each part is finalized, branches are merged into `main` after thorough testing and code review.
 
 ## Contributors
-- Warinthon and team
+- Warinthon
+- Sawitree
+- Tanyarat
 
 ## License
 This project is intended for educational purposes.
